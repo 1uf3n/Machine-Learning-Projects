@@ -1,1 +1,2 @@
 # Machine-Learning-Projects
+This repository presents a collection of scientific computing and machine learning projects focused on signal processing, dimensionality reduction, and neural network design. These projects implement core computational techniques using Python, with applications ranging from acoustic signal tracking to image classification. Each report provides a comprehensive workflow—covering theoretical foundations, algorithm development, visualization, and performance evaluation.
