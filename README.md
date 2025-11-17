@@ -16,3 +16,5 @@ Develops a configurable fully connected neural network (FCN) to classify images 
 ## Project 5 – Comparative Study of FCNs and CNNs for FashionMNIST
 Builds and compares several fully connected and convolutional neural network (CNN) architectures under fixed parameter budgets. Evaluates how model structure and size influence classification accuracy, training time, and overfitting behavior. Includes detailed benchmarking across learning rates and architecture configurations.
 
+## Paper – Comparative Analysis of Neural Network Architectures for Image Classification
+This paper presents a comparative analysis of two primary neural network architectures—Fully Connected Networks (FCNs) and Convolutional Neural Networks (CNNs)—for image classification on the FashionMNIST dataset. Multiple model variants with varying parameter bud- gets are designed and trained using the AdamW optimizer and StepLR learning-rate scheduling. Comparative experiments highlight how architectural choices and model capacity influence classifi- cation accuracy, training efficiency, and generalization performance.
